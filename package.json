@@ -1,0 +1,19 @@
+{
+  "name": "node-ember",
+  "version": "1.0.0",
+  "description": "sample node-ember starter app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Casey Ross",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.8.3",
+    "ejs": "^2.4.1",
+    "express": "^4.15.3",
+    "mongoose": "^4.4.7"
+  }
+}
